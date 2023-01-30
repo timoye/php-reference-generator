@@ -1,0 +1,17 @@
+{
+    "name": "timoye/php-reference-generator",
+    "description": "generate reference",
+    "authors": [
+        {
+            "name": "Timothy Soladoye",
+            "email": "tim.soladoye@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Timoye\\ReferenceGenerator\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
