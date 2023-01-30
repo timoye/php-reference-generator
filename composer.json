@@ -9,7 +9,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Timoye\\ReferenceGenerator\\": "src/"
+            "Timoye\\": "src/"
         }
     },
     "minimum-stability": "stable",
