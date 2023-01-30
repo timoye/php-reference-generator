@@ -12,6 +12,6 @@
             "Timoye\\": "src/"
         }
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {}
 }
