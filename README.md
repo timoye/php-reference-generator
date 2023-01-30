@@ -3,7 +3,7 @@
 ###Install
 
 ```
-composer require timoye/php-reference-generator
+composer require timoye/php-reference-generator:dev-master
 ```
 
 ###Usage
