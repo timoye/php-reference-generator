@@ -1,14 +1,23 @@
 # PHP Reference Generator
 
-##Install
+###Install
+
 ```
-composer install
+composer require timoye/php-reference-generator
 ```
 
-##Usage
+###Usage
 
 ```php
+<?php
+
+require_once 'vendor/autoload.php';
+
 use Timoye\ReferenceGenerator;
 
-ReferenceGenerator::getHashedToken();
+$token=ReferenceGenerator::getHashedToken();
 ```
+
+###Credit
+
+http://stackoverflow.com/a/13733588/179104

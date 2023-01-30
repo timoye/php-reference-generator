@@ -1,14 +1,11 @@
 <?php
 
 /*
- * This file is part of the Paystack Terminal Custom Forms PHP.
  *
  * (c) Timothy Soladoye <tim.soladoye@gmail.com>
  *
  * Source http://stackoverflow.com/a/13733588/179104
  *
- * For the full copyright and license information, please view the LICENSE
- * file that was distributed with this source code.
  */
 
 namespace Timoye;
