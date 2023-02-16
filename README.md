@@ -1,12 +1,12 @@
 # PHP Reference Generator
 
-###Install
+### Install
 
 ```
 composer require timoye/php-reference-generator:dev-master
 ```
 
-###Usage
+### Usage
 
 ```php
 <?php
@@ -18,6 +18,6 @@ use Timoye\ReferenceGenerator;
 $token=ReferenceGenerator::getHashedToken();
 ```
 
-###Credit
+### Credit
 
 http://stackoverflow.com/a/13733588/179104
